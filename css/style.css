@@ -182,6 +182,11 @@
   border: none;
 }
 
+.left {
+  display: flex;
+  align-items: center;
+}
+
 .touch li {
   display: flex;
   align-items: center;
