@@ -45,7 +45,7 @@
 .list-box li a {
   text-decoration: none;
   color: #fffffff2;
-  text-shadow: #303030 0 -1px 0px;
+  text-shadow: #303030 0 -1px 0;
 }
 
 .apple {
@@ -157,7 +157,7 @@
 /* gallery style ends */
 
 /* fotter styles */
-.area-box {
+.inner {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -176,7 +176,7 @@
   padding-top: 20px;
 }
 
-.area-box .first {
+.inner .first {
   margin: 0;
   padding: 0;
   border: none;
@@ -187,11 +187,10 @@
   align-items: center;
 }
 
-.area-box a {
+.inner a {
   color: #08c;
   text-decoration: none;
 }
-
 
 .touch li {
   display: flex;
