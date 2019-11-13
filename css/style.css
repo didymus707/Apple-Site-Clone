@@ -42,7 +42,7 @@
   border-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAABCAQAAABTNcdGAAAAEUlEQVQIHWP4r8bA8F%2BKwQEADZUCf37PGokAAAAASUVORK5CYII%3D') 0 2 0 1;
 }
 
-.list-box li a {
+.list-box a {
   text-decoration: none;
   color: #fffffff2;
   text-shadow: #303030 0 -1px 0;
