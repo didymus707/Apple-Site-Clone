@@ -135,12 +135,9 @@
 /* wrapper styles ends */
 
 /* gallery style starts */
-.gallery {
-  /* height: 29vh; */
-}
-
 .phone-list {
   display: flex;
+  justify-content: center;
 }
 
 .phone-list li {
@@ -154,10 +151,6 @@
 /* gallery style ends */
 
 /* fotter styles */
-.areas {
-  /* height: 10vh; */
-}
-
 .inner-box {
   display: flex;
   justify-content: space-between;
