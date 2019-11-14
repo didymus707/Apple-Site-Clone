@@ -40,7 +40,7 @@ Specs to the Project can be found [here](https://www.theodinproject.com/courses/
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Click on this [link](https://raw.githack.com/tzvaita/Floating-elements/content/index.html) to check out my live version  of the site
+Click on this [link](https://raw.githack.com/didymus707/Apple-Site-clone/feature/index.html) to check out my live version  of the site
 
 
 <!-- CONTRIBUTING -->
@@ -60,7 +60,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Adewale Orotayo - [@didy707](https://twitter.com/didy707) - didymus7007@gmail.com
 
-Project Link: [Apple Site Clone](https://raw.githack.com/didymus707/Apple-Site-clone/feature/index.html)
+Project Link: [Apple Site Clone](https://github.com/didymus707/Apple-Site-clone)
 
 
 
